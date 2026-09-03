@@ -1,4 +1,4 @@
-git branch 
-  bug-fix-revert
-  bug-fix-typo
-* main
+git branch -vv 
+  bug-fix-revert 68d1a1b [origin/bug-fix-revert] Revert "Fix typo in README footer"
+  bug-fix-typo   c80ffd0 [origin/bug-fix-typo] Fix typo in README footer
+* main           d453ba1 [origin/main] Update contributing guidelines
